@@ -1,5 +1,9 @@
 # novusclima
 
+Referentes:
+https://sharmaji27.medium.com/live-weather-forecast-flask-app-ffcbbc4d97a7
+
+
 					Problema
 						Madagascar hambre por clima
 						46 muertos en junio 2021 por inundaciones en Alemania
