@@ -1,5 +1,8 @@
 # novusclima
 
+Servicio Satelital en Tiempo Real con AWS:
+https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
+
 Referentes:
 https://sharmaji27.medium.com/live-weather-forecast-flask-app-ffcbbc4d97a7
 
