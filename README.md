@@ -9,6 +9,9 @@ https://threejs.org/examples/#webgl2_volume_cloud
 3dAgua
 https://threejs.org/examples/#webgl_gpgpu_water
 
+WildFires Analysis:
+https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil
+
 Servicio Satelital en Tiempo Real con AWS:
 https://affine.ai/telescope/
 https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
