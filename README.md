@@ -9,6 +9,9 @@ https://threejs.org/examples/#webgl2_volume_cloud
 3dAgua
 https://threejs.org/examples/#webgl_gpgpu_water
 
+Semantic Segmentation: buildings, roads...
+https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
+
 WildFires Analysis:
 https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil
 
