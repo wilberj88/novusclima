@@ -12,6 +12,9 @@ https://threejs.org/examples/#webgl_gpgpu_water
 GIS with ChatGpt
 https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
 
+Mando Mapa:
+https://medium.com/@insightsbees/streamlit-for-dashboards-and-web-apps-a-complete-beginners-tutorial-part-2-ee6e9fe8e510
+
 Semantic Segmentation: buildings, roads...
 https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
 
