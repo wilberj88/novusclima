@@ -13,10 +13,10 @@ st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 
 st.title('Novus Clima ⛅ Demo by NovusTech+Exsis')
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
-st.write("Indica un lugar en el mapa y averígualo ahora 🕰")
+st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
 
 m = folium.Map(location=[4.2620, -75.13], zoom_start=16)
-folium.Marker([4.2620, -75.13], popup="Liberty Bell", tooltip="Liberty Bell").add_to(m)
+e = folium.Marker([4.2620, -75.13], popup="Liberty Bell", tooltip="Liberty Bell").add_to(m)
 # call to render Folium map in Streamlit
 st_data = st_folium(m, width=725)
 
