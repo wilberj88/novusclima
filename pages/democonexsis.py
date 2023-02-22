@@ -66,7 +66,7 @@ if st.button('Calcular diagnóstico gratuito'):
         ],
         ))
     st.header("Mitigación requerida")
-    chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["a", "b", "c"])
+    chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["Movimiento de Tierras", "Motobombas", "Escombros"])
     st.area_chart(chart_data)
     st.write("Financiación necesaria")
         # Add histogram data
