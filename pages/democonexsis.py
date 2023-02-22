@@ -38,8 +38,8 @@ if st.button('Calcular diagnóstico gratuito'):
     st.pydeck_chart(pdk.Deck(
     map_style=None,
     initial_view_state=pdk.ViewState(
-        latitude=37.76,
-        longitude=-122.4,
+        latitude=4.26,
+        longitude=-75.13,
         zoom=11,
         pitch=50,
     ),
