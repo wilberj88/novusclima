@@ -92,14 +92,38 @@ if st.button('Calcular diagnóstico gratuito'):
     columns=["emisiones", "flora", "fauna"])
     st.bar_chart(chart_data)
 
-    df = pd.DataFrame(
-    np.random.randn(200, 3),
-    columns=['a', 'b', 'c'])
-
-    c = alt.Chart(df).mark_circle().encode(
-    x='a', y='b', size='c', color='c', tooltip=['a', 'b', 'c'])
-
-    st.altair_chart(c, use_container_width=True)
+    def render_basic_radar():
+    option = {
+        "title": {"text": "Comparaciones"},
+        "legend": {"data": ["Consumo Actual", "Consumo Óptimo"]},
+        "radar": {
+            "indicator": [
+                {"name": "Líderes", "max": 6500},
+                {"name": "Financiación", "max": 16000},
+                {"name": "Sentimiento", "max": 30000},
+                {"name": "Votación Anterior", "max": 38000},
+                {"name": "Interaciones", "max": 52000},
+                {"name": "Recordación de Marca", "max": 25000},
+            ]
+        },
+        "series": [
+            {
+                "name": "Consumo Actual Vs Óptimo",
+                "type": "radar",
+                "data": [
+                    {
+                        "value": [2000, 10000, 20000, 3500, 15000, 11800],
+                        "name": "Consumo Actual",
+                    },
+                    {
+                        "value": [3500, 15000, 25000, 10800, 22000, 20000],
+                        "name": "Consumo Óptimo",
+                    },
+                ],
+            }
+        ],
+    }
+    st_echarts(option, height="500px")
 
 # Data src:  https://www.kaggle.com/manohar676/hotel-reviews-segmentation-recommended-system
 # Credit to: Manohar Reddy
