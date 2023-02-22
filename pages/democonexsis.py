@@ -138,8 +138,9 @@ if st.button('Calcular diagnóstico gratuito'):
 
 
 st.write("""
-**Credits**
-- Software build by `Novus Will` with `RandomFake` data
+**No asumas estos riesgos sin estar blindado**
+- Activa tu plan anual de Monitoreo + Mitigación + Adaptación
+- Asegúrate con `Novus Clima` y `Exsis` y despreocúpate de los riesgos climáticos
 """)
 st.write('---')
 
