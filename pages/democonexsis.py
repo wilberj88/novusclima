@@ -89,7 +89,7 @@ if st.button('Calcular diagnóstico gratuito'):
     st.header("Plan de Adaptación por zonas")
     chart_data = pd.DataFrame(
     np.random.randn(50, 3),
-    columns=["a", "b", "c"])
+    columns=["emisiones", "flora", "fauna"])
     st.bar_chart(chart_data)
 
     df = pd.DataFrame(
