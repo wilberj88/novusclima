@@ -77,7 +77,7 @@ if st.button('Calcular diagnóstico gratuito'):
     # Group data together
     hist_data = [x1, x2, x3]
 
-    group_labels = ['Group 1', 'Group 2', 'Group 3']
+    group_labels = ['3 meses antes del evento', 'Post evento', '3 meses después del evento']
 
     # Create distplot with custom bin_size
     fig = ff.create_distplot(
