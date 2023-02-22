@@ -124,7 +124,7 @@ if st.button('Calcular diagnóstico gratuito'):
                 ],
             }
         st_echarts(option, height="500px")
-
+    render_basic_radar()
 # Data src:  https://www.kaggle.com/manohar676/hotel-reviews-segmentation-recommended-system
 # Credit to: Manohar Reddy
     df = pd.read_csv("https://raw.githubusercontent.com/Coding-with-Adam/Dash-by-Plotly/master/Plotly_Graphs/Radar-chart/ExistingHotels_CustomerVisitsdata-1554810038262.csv")
