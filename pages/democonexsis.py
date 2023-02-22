@@ -134,12 +134,7 @@ if st.button('Calcular diagnóstico gratuito'):
                             )
         # fig.update_traces(fill='toself')
     fig.show()
-    if st.button('Activa tu plan anual de Monitoreo + Mitigación + Adaptación'):    
-        st.title('Tenemos un contrato 📜  personalizado 🎯 a tu diagnóstico 🔎 ')
-        st.text_input("Incorpore su firma si está de acuerdo con las condiciones")
-
-        st.text_input("Incorpore su correo electrónico para envío de factura")
-        st.write('Gracias por confiar en los servicios de Novus Clima ⛅ y Exsis')
+    
 
 st.write("""
 **No asumas estos riesgos sin estar blindado**
@@ -147,7 +142,14 @@ st.write("""
 """)
 st.write('---')
 
+if st.button('Activa tu plan anual de Monitoreo + Mitigación + Adaptación'):    
+        st.title('Tenemos un contrato 📜  personalizado 🎯 a tu diagnóstico 🔎 ')
+        st.text_input("Incorpore su firma si está de acuerdo con las condiciones")
 
+        st.text_input("Incorpore su correo electrónico para envío de factura")
+        st.write('Gracias por confiar en los servicios de Novus Clima ⛅ y Exsis')
+        
+        
 hide_default_format = """
        <style>
        #MainMenu {visibility: hidden; }
