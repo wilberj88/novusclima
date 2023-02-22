@@ -5,8 +5,8 @@ import plotly.express as px
 import pydeck as pdk
 import plotly.figure_factory as ff
 import altair as alt
-import folium
-from streamlit_folium import st_folium
+#import folium
+#from streamlit_folium import st_folium
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
@@ -14,11 +14,6 @@ st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 st.title('Novus Clima ⛅ Demo by NovusTech+Exsis')
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
 st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
-
-m = folium.Map(location=[4.2620, -75.13], zoom_start=16)
-e = folium.Marker([4.2620, -75.13], popup="Liberty Bell", tooltip="Liberty Bell").add_to(m)
-# call to render Folium map in Streamlit
-st_data = st_folium(m, width=725)
 
 territorio = st.selectbox("Indica el Territorio",
         ("Santander", "Tolima", "Caribe", "Pacífico", "Amazonas"),
@@ -32,14 +27,14 @@ categoria = st.radio(
 if st.button('Calcular diagnóstico gratuito'):
     st.header("Requerimientos de Campaña")
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Inversión", "70 M USD", "7.2 M USD")
-    col2.metric("Líderes", "9 mpl", "-8%")
-    col3.metric("Sentimiento", "86%", "4%")
-    col4.metric("Votos", "50K mpl", "4K")
-    st.write("Desagregación de votos por barrios de acuerdo con las votaciones históricas")
+    col1.metric("Infraestructura", "70 M USD", "7.2 M USD")
+    col2.metric("Vías", "9 mpl", "-8%")
+    col3.metric("Hospitales", "86%", "4%")
+    col4.metric("Colegios", "50K mpl", "4K")
+    st.write("Desagregación de riesgos climáticos por zonas")
     #datos
     df = pd.DataFrame(
-    np.random.randn(1000, 2) / [50, 50] + [37.76, -122.4],
+    np.random.randn(1000, 2) / [50, 50] + [4.2620, -75.13],
     columns=['lat', 'lon'])
     st.pydeck_chart(pdk.Deck(
     map_style=None,
@@ -69,7 +64,7 @@ if st.button('Calcular diagnóstico gratuito'):
         ),
         ],
         ))
-    st.write("Líderes necesarios para votación mínima")
+    st.write("Mitigación requerida para potenciales desastres climáticos:")
     chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["a", "b", "c"])
     st.area_chart(chart_data)
     st.write("Financiación necesaria")
@@ -90,7 +85,7 @@ if st.button('Calcular diagnóstico gratuito'):
     # Plot!
     st.plotly_chart(fig, use_container_width=True)
 
-    st.header("Requerimientos de Candidato")
+    st.header("Requerimientos en Vidas, Infraestructura y Servicios Públicos")
     chart_data = pd.DataFrame(
     np.random.randn(50, 3),
     columns=["a", "b", "c"])
