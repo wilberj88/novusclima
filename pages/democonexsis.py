@@ -11,16 +11,16 @@ import altair as alt
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 
-st.title('Novus Clima ⛅ Demo by NovusTech+Exsis')
+st.title('Novus Clima ⛅ Demo by NovusTech + Exsis')
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
-st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
+#st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
 
 territorio = st.selectbox("Indica el Territorio",
         ("Santander", "Tolima", "Caribe", "Pacífico", "Amazonas"),
     )
 categoria = st.radio(
-        "Indica la crisis para la cual te quieres preparar👇 ",
-        options=['Inundación', 'Sequía','Incendios', 'Huracanes', 'Deslizamientos'],
+        "Indica el periodo de análisis👇 ",
+        options=['1Q2023', '2Q2023','3Q2023', '4Q2023', '2030'],
     )
 
 
