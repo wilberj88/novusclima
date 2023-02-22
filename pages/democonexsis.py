@@ -8,7 +8,7 @@ import pydeck as pdk
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 
 st.title('Novus Clima ⛅ Demo by NovusTech+Exsis')
-st.header("¿Sabes cuánto te costaría la próxima crisis climática?🌎")
+st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
 st.write("Averígualo ahora 🕰")
 
 
