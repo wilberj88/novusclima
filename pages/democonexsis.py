@@ -135,7 +135,7 @@ if st.button('Calcular diagnóstico gratuito'):
 
 st.write("""
 **Credits**
-- Software build by `Novus Wilber` with `Registraduría General de la Nación` data
+- Software build by `Novus Will` with `RandomFake` data
 """)
 st.write('---')
 
