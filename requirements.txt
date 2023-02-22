@@ -6,3 +6,4 @@ plotly.express
 altair
 #qgis.core
 plotly.express
+folium
