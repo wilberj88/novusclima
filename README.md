@@ -28,6 +28,9 @@ https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-a
 
 Real time Weather Updates:
 https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
+https://github.com/gerardrbentley/peak-weather
+https://gerardrbentley-peak-weather-streamlit-appstreamlit-app-6asgew.streamlit.app/
+
 
 Referentes:
 https://sharmaji27.medium.com/live-weather-forecast-flask-app-ffcbbc4d97a7
