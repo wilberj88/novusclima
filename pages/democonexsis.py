@@ -25,14 +25,14 @@ categoria = st.radio(
 
 
 if st.button('Calcular diagnóstico gratuito'):
-    st.header("Riesgos Climáticos para ", territorio)
+    st.header("Diagnóstico de Riesgos Climáticos")
     st.write("Probabilidades de ocurrencia en el periodo ", categoria)
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Derrumbes", "70%", "40%")
     col2.metric("Sequías", "30%", "-82%")
     col3.metric("Incedios", "16%", "43%")
     col4.metric("Inundaciones", "87%", "78%")
-    st.write("Desagregación de riesgos climáticos por zonas")
+    st.write("Georreferenciación de riesgos climáticos")
     #datos
     df = pd.DataFrame(
     np.random.randn(1000, 2) / [50, 50] + [4.2620, -75.13],
@@ -65,7 +65,7 @@ if st.button('Calcular diagnóstico gratuito'):
         ),
         ],
         ))
-    st.write("Mitigación requerida para potenciales desastres climáticos:")
+    st.header("Mitigación requerida")
     chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["a", "b", "c"])
     st.area_chart(chart_data)
     st.write("Financiación necesaria")
@@ -86,7 +86,7 @@ if st.button('Calcular diagnóstico gratuito'):
     # Plot!
     st.plotly_chart(fig, use_container_width=True)
 
-    st.header("Requerimientos en Vidas, Infraestructura y Servicios Públicos")
+    st.header("Plan de Adaptación por zonas")
     chart_data = pd.DataFrame(
     np.random.randn(50, 3),
     columns=["a", "b", "c"])
