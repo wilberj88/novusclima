@@ -123,7 +123,7 @@ if st.button('Calcular diagnóstico gratuito'):
                     }
                 ],
             }
-            st_echarts(option, height="500px")
+        st_echarts(option, height="500px")
 
 # Data src:  https://www.kaggle.com/manohar676/hotel-reviews-segmentation-recommended-system
 # Credit to: Manohar Reddy
