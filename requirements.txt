@@ -3,4 +3,4 @@ numpy
 pandas
 plotly.express
 altair
-qgis
+qgis.core
