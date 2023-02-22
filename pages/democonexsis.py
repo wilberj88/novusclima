@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import pydeck as pdk
+from streamlit_echarts import st_echarts
 import plotly.figure_factory as ff
 import altair as alt
 #import folium
