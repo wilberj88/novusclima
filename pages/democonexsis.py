@@ -25,12 +25,13 @@ categoria = st.radio(
 
 
 if st.button('Calcular diagnóstico gratuito'):
-    st.header("Requerimientos de Campaña")
+    st.header("Riesgos Climáticos para ", territorio)
+    st.write("Probabilidades de ocurrencia en el periodo ", categoria)
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Infraestructura", "70 M USD", "7.2 M USD")
-    col2.metric("Vías", "9 mpl", "-8%")
-    col3.metric("Hospitales", "86%", "4%")
-    col4.metric("Colegios", "50K mpl", "4K")
+    col1.metric("Derrumbes", "70%", "40%")
+    col2.metric("Sequías", "30%", "-82%")
+    col3.metric("Incedios", "16%", "43%")
+    col4.metric("Inundaciones", "87%", "78%")
     st.write("Desagregación de riesgos climáticos por zonas")
     #datos
     df = pd.DataFrame(
