@@ -5,14 +5,23 @@ import plotly.express as px
 import pydeck as pdk
 import plotly.figure_factory as ff
 import altair as alt
+import folium
+from streamlit_folium import st_folium
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 
 st.title('Novus Clima ⛅ Demo by NovusTech+Exsis')
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
-st.write("Averígualo ahora 🕰")
+st.write("Indica un lugar en el mapa y averígualo ahora 🕰")
 
+m = folium.Map(location=[39.949610, -75.150282], zoom_start=16)
+        folium.Marker(
+            [39.949610, -75.150282], popup="Liberty Bell", tooltip="Liberty Bell"
+        ).add_to(m)
+
+        # call to render Folium map in Streamlit
+        st_data = st_folium(m, width=725)
 
 territorio = st.selectbox("Indica el Territorio",
         ("Santander", "Tolima", "Caribe", "Pacífico", "Amazonas"),
