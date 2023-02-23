@@ -12,6 +12,9 @@ https://threejs.org/examples/#webgl_gpgpu_water
 GIS with ChatGpt
 https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
 
+Data:
+https://towardsdatascience.com/the-most-powerful-climate-data-remains-hidden-87cb0a0bf302
+
 Mando Mapa:
 https://medium.com/@insightsbees/streamlit-for-dashboards-and-web-apps-a-complete-beginners-tutorial-part-2-ee6e9fe8e510
 https://towardsdatascience.com/streamlit-from-scratch-build-a-data-dashboard-with-streamlits-layout-and-ui-features-a2fc2f0a6a59
