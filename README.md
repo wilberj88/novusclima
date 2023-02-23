@@ -26,6 +26,9 @@ Servicio Satelital en Tiempo Real con AWS:
 https://affine.ai/telescope/
 https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
 
+Historical Climate Change:
+https://towardsdatascience.com/visualizing-climate-change-a-step-by-step-guide-to-reproduce-climate-stripes-with-python-ea1d440e8e8d
+
 Real time Weather Updates:
 https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
 https://github.com/gerardrbentley/peak-weather
