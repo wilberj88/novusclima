@@ -13,7 +13,9 @@ GIS with ChatGpt
 https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
 
 Data:
+GLOBAL
 https://towardsdatascience.com/the-most-powerful-climate-data-remains-hidden-87cb0a0bf302
+https://towardsdatascience.com/co2-emissions-infographics-in-python-369dd968eb84
 
 Mando Mapa:
 https://medium.com/@insightsbees/streamlit-for-dashboards-and-web-apps-a-complete-beginners-tutorial-part-2-ee6e9fe8e510
