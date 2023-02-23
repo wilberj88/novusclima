@@ -16,6 +16,9 @@ Mando Mapa:
 https://medium.com/@insightsbees/streamlit-for-dashboards-and-web-apps-a-complete-beginners-tutorial-part-2-ee6e9fe8e510
 https://towardsdatascience.com/streamlit-from-scratch-build-a-data-dashboard-with-streamlits-layout-and-ui-features-a2fc2f0a6a59
 
+Demo Mundial:
+https://github.com/initze/noaaplotter_streamlit
+
 Semantic Segmentation: buildings, roads...
 https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
 
