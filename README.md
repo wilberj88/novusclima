@@ -17,6 +17,7 @@ https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
 
 Data:
 GLOBAL
+https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
 https://towardsdatascience.com/the-most-powerful-climate-data-remains-hidden-87cb0a0bf302
 https://towardsdatascience.com/co2-emissions-infographics-in-python-369dd968eb84
 
