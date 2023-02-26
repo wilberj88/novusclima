@@ -1,5 +1,8 @@
 # novusclima
 
+Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir (IFC Certificado para Financiación)
+
+
 3dRayo
 https://threejs.org/examples/#webgl_lightningstrike
 
