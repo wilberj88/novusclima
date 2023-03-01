@@ -2,6 +2,19 @@
 
 Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir (IFC Certificado para Financiación)
 
+Tareas feb 2023
+Compartir bibliografía de las bases
+Fechas
+Licencias
+Formatos…
+Seguir avanzando código demo
+Consulta
+Ibagué
+Santander
+Ciudad de México: finales de Marzo lanzando
+Miami: ITC: 24-26 de abril
+
+
 
 3dRayo
 https://threejs.org/examples/#webgl_lightningstrike
