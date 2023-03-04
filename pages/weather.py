@@ -10,16 +10,16 @@ BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 #City One 
 sity = st.text_input("Escribe la ciudad que deseas revisar")
 st.write('La ciudad seleccionada es', sity)
-CITY = "Bogota"
+#CITY = "Bogota"
 #API key 
 API_KEY = "146090ad17fa8843bc9eca97c53926b4"
 # upadting the URL
-URL = BASE_URL + "q=" + CITY + "&appid=" + API_KEY
+#URL = BASE_URL + "q=" + CITY + "&appid=" + API_KEY
 #URL_london = "api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=146090ad17fa8843bc9eca97c53926b4"
 URL1 = BASE_URL + "q=" + sity + "&appid=" + API_KEY
 
 # HTTP request
-response = requests.get(URL)
+response = requests.get(URL1)
 
 # checking the status code of the request
 if response.status_code == 200:
