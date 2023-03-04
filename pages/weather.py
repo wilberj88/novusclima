@@ -10,7 +10,7 @@ st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 st.title('Novus Clima ⛅')
 st.header("Ahorra 💰 mientras salvamos juntos el planeta 🌎")
 
-st.write("Bienvenidos al futuro climático 👋 - Señala una ciudad")
+st.write("Bienvenidos al futuro climático 👋")
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
