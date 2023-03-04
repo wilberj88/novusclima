@@ -8,7 +8,7 @@ BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
 
 #City One 
-sity = st.text_input('Bogota', 'Miami', 'London', 'Ibague', 'Barrancabermeja')
+sity = st.text_input("Escribe la ciudad que deseas revisar")
 st.write('La ciudad seleccionada es', sity)
 CITY = "Bogota"
 #API key 
