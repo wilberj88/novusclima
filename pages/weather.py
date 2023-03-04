@@ -8,7 +8,7 @@ BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
 
 #City One 
-CITY = "CDMX"
+CITY = "Barrancabermeja"
 #API key 
 API_KEY = "146090ad17fa8843bc9eca97c53926b4"
 # upadting the URL
