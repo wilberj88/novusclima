@@ -27,7 +27,7 @@ API_KEY = "146090ad17fa8843bc9eca97c53926b4"
 URL1 = BASE_URL + "q=" + sity + "&appid=" + API_KEY
 
 # HTTP request
-is sity:
+if sity:
    response = requests.get(URL1)
 
 # checking the status code of the request
