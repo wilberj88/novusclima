@@ -8,8 +8,7 @@ BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
 
 #City One 
-sity = st.text_input("Escribe la ciudad que deseas revisar")
-st.write('La ciudad seleccionada es', sity)
+sity = st.text_input("Escribe la ciudad que deseas revisar su temperatura en este instante")
 #CITY = "Bogota"
 #API key 
 API_KEY = "146090ad17fa8843bc9eca97c53926b4"
@@ -45,3 +44,4 @@ else:
    st.write("Error in the HTTP request")
 
    
+st.write('El pronóstico para las próximas semanas para ', sity, 'te lo regalamos con tu suscripción a Novus Clima ⛅')
