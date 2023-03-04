@@ -30,7 +30,7 @@ URL1 = BASE_URL + "q=" + sity + "&appid=" + API_KEY
 response = requests.get(URL1)
 
 # checking the status code of the request
-if response.status_code == 200:
+if sity & response.status_code == 200:
    # getting data in the json format
    data = response.json()
    # getting the main dict block
