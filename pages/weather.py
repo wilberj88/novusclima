@@ -44,4 +44,4 @@ else:
    st.write("Error in the HTTP request")
 
    
-st.write('El pronóstico para las próximas semanas para ', sity, 'te lo regalamos con tu suscripción a Novus Clima ⛅')
+if sity: st.write('El pronóstico para las próximas semanas para ', sity, 'te lo regalamos con tu suscripción a Novus Clima ⛅')
