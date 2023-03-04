@@ -27,10 +27,11 @@ API_KEY = "146090ad17fa8843bc9eca97c53926b4"
 URL1 = BASE_URL + "q=" + sity + "&appid=" + API_KEY
 
 # HTTP request
-response = requests.get(URL1)
+is sity:
+   response = requests.get(URL1)
 
 # checking the status code of the request
-if sity & response.status_code == 200:
+if response.status_code == 200:
    # getting data in the json format
    data = response.json()
    # getting the main dict block
