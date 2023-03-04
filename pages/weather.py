@@ -3,6 +3,15 @@ import requests
 import json
 
 
+
+# SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
+st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
+
+st.title('Novus Clima ⛅')
+st.header("Ahorra 💰 mientras salvamos juntos el planeta 🌎")
+
+st.write("Bienvenidos al futuro climático 👋 - Señala una ciudad")
+
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
 
