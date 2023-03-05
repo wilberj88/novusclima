@@ -14,6 +14,14 @@ Santander
 Ciudad de México: finales de Marzo lanzando
 Miami: ITC: 24-26 de abril
 
+Streamlit Visualizaciones:
+Clima: General Widgets: 1) Elements, 2) Vertical Slider, 3) Toggle Swithc, 4) Custom Toggle.
+Clima: Charts. Echarts: 1) Graph, 2) Graph Force, 3) Liquidfill, 4) Gauge Ring, 5) Theme River, 6) Legent Event, 7) SunBurst
+Clima: Pyechart: 1) map, 2) Prophet library
+Mando: General Widgets: 1) Elements, 2) Vertical Slider, 3) Toggle Swithc, 4) Custom Toggle.
+Mando: Charts. Echarts: 1) Graph, 2) Graph Force, 3) Tree Left to Right, 4) Tree map, 5) Funnel, 6) Liquidfill, 7) Gauge Ring, 8) Pictorial Bar Vehicles, 9) Theme River, 10) DataSet, 11) Legend Event, 12) SunBurst
+Mando TOP: 1) Vizzu, 2)iPyvizzu
+Mando: okld Gallery: Elements + Radar
 
 
 3dRayo
