@@ -19,6 +19,9 @@ Clima: General Widgets: 1) Elements, 2) Vertical Slider, 3) Toggle Swithc, 4) Cu
 Clima: Charts. Echarts: 1) Graph, 2) Graph Force, 3) Liquidfill, 4) Gauge Ring, 5) Theme River, 6) Legent Event, 7) SunBurst
 Clima: Pyechart: 1) map, 2) Prophet library
 
+Three Js referentes:
+https://threejs.org/examples/#misc_controls_fly
+
 Seguros Predicción de Reclamos https://github.com/fardil-b/Insurance-Claims-Severity-Prediction
 
 3dRayo
