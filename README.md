@@ -21,6 +21,7 @@ Clima: Pyechart: 1) map, 2) Prophet library
 
 Three Js referentes:
 https://threejs.org/examples/#misc_controls_fly
+https://threejs.org/examples/#css2d_label
 
 Seguros Predicción de Reclamos https://github.com/fardil-b/Insurance-Claims-Severity-Prediction
 
