@@ -27,7 +27,6 @@ categoria = st.radio(
 
 if st.button('Calcular diagnóstico gratuito'):
     st.header("Diagnóstico de Riesgos Climáticos")
-    st.write("Probabilidades de ocurrencia en el periodo ", categoria)
         
     def render_basic_radar():
         option = {
@@ -62,7 +61,8 @@ if st.button('Calcular diagnóstico gratuito'):
             }
         st_echarts(option, height="500px")
     render_basic_radar()
-        
+    
+    st.write("Probabilidades de ocurrencia en el periodo ", categoria)  
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Riesgos", "70%", "40%")
     col2.metric("Oportunidades", "30%", "-82%")
