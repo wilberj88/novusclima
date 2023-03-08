@@ -1,6 +1,14 @@
 # novusclima
 
-Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir (IFC Certificado para Financiación)
+Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir (IFC: International Fire Consultants Ltd: Certificado para Financiación)
+https://www.ifccertification.com/clients/application/default.html
+Manufacturer
+Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
++ Water + Steel
+ISO 9001 Quality
+Regulator
+
+
 
 Tareas feb 2023
 Compartir bibliografía de las bases
