@@ -38,6 +38,9 @@ https://threejs.org/examples/#css2d_label
 
 Seguros Predicción de Reclamos https://github.com/fardil-b/Insurance-Claims-Severity-Prediction
 
+
+
+
 3dRayo
 https://threejs.org/examples/#webgl_lightningstrike
 
@@ -65,7 +68,7 @@ Mundial:
 https://github.com/initze/noaaplotter_streamlit
 Co2Emissions
 https://towardsdatascience.com/an-interactive-co2-emissions-dashboard-with-plotly-and-streamlit-b0bd4ae80cc8
-
+Supply Chain CO2 Emissions: https://s-saci95.medium.com/green-inventory-management-case-study-790f2ed7ef7e
 
 Semantic Segmentation: buildings, roads...
 https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
