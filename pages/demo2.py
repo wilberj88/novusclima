@@ -29,7 +29,45 @@ if st.button('Calcular diagnóstico gratuito'):
     st.header("Diagnóstico de Riesgos Climáticos")
     st.write("Probabilidades de ocurrencia en el periodo ", categoria)
     col1, col2 = st.columns(2)
+    col1.metric("Riesgos", "70%", "40%")
+    col2.metric("Oportunidades", "30%", "-82%")
     
+    def render_basic_radar():
+        option = {
+                "title": {"text": "Costos estimados por tipos de Riesgos Climáticos"},
+                "legend": {"data": ["Riesgo Detectado", "Riesgo Gestionado"]},
+                "radar": {
+                    "indicator": [
+                        {"name": "Derrumbes", "max": 6500},
+                        {"name": "Sequías", "max": 16000},
+                        {"name": "Incendios", "max": 30000},
+                        {"name": "Inundaciones", "max": 38000},
+                        {"name": "Deslizamientos", "max": 52000},
+                        {"name": "Contaminación", "max": 25000},
+                    ]
+                },
+                "series": [
+                    {
+                        "name": "Costo Estimado Vs Costo Mitigado",
+                        "type": "radar",
+                        "data": [
+                            {
+                                "value": [2000, 10000, 20000, 3500, 15000, 11800],
+                                "name": "Riesgo Detectado",
+                            },
+                            {
+                                "value": [3500, 15000, 25000, 10800, 22000, 20000],
+                                "name": "Riesgo Gestionado",
+                            },
+                        ],
+                    }
+                ],
+            }
+        st_echarts(option, height="500px")
+    render_basic_radar()
+        
+        
+        
 st.write("""
 **No asumas estos riesgos sin estar blindado**
 - Asegúrate con `Novus Clima` y `Exsis` y despreocúpate de los riesgos climáticos
