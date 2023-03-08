@@ -28,10 +28,7 @@ categoria = st.radio(
 if st.button('Calcular diagnóstico gratuito'):
     st.header("Diagnóstico de Riesgos Climáticos")
     st.write("Probabilidades de ocurrencia en el periodo ", categoria)
-    col1, col2 = st.columns(2)
-    col1.metric("Riesgos", "70%", "40%")
-    col2.metric("Oportunidades", "30%", "-82%")
-    
+        
     def render_basic_radar():
         option = {
                 "title": {"text": "Costos estimados por tipos de Riesgos Climáticos"},
@@ -66,7 +63,11 @@ if st.button('Calcular diagnóstico gratuito'):
         st_echarts(option, height="500px")
     render_basic_radar()
         
-        
+    col1, col2, col3, col4 = st.columns(4)
+    col1.metric("Riesgos", "70%", "40%")
+    col2.metric("Oportunidades", "30%", "-82%")
+    col3.metric("Incedios", "16%", "43%")
+    col4.metric("Inundaciones", "87%", "78%")
         
 st.write("""
 **No asumas estos riesgos sin estar blindado**
