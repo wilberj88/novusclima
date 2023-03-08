@@ -27,6 +27,10 @@ Daniela Ramírez: 3125315092
 Cobertrura Colombia, Panamá, México, Ecuador y Perú.
 Ideam intercambia datos
 
+Satellite Image Time Series:
+https://towardsdatascience.com/what-is-a-satellite-image-time-series-c0516c534ba9
+Agriculture, Forest Monitoring, Climate, Urban Planning, Disaster Response, SITS
+
 
 Three Js referentes:
 https://threejs.org/examples/#misc_controls_fly
