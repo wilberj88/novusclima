@@ -19,6 +19,15 @@ Clima: General Widgets: 1) Elements, 2) Vertical Slider, 3) Toggle Swithc, 4) Cu
 Clima: Charts. Echarts: 1) Graph, 2) Graph Force, 3) Liquidfill, 4) Gauge Ring, 5) Theme River, 6) Legent Event, 7) SunBurst
 Clima: Pyechart: 1) map, 2) Prophet library
 
+Sensores de Truenos: Kreaunos LATAM
+www.keraunos.co
+52 millones el sensor de campo electromagnético para 25km2
+Servicio mensual de soporte
+Daniela Ramírez: 3125315092
+Cobertrura Colombia, Panamá, México, Ecuador y Perú.
+Ideam intercambia datos
+
+
 Three Js referentes:
 https://threejs.org/examples/#misc_controls_fly
 https://threejs.org/examples/#css2d_label
