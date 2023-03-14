@@ -9,6 +9,10 @@ ISO 9001 Quality
 Regulator
 
 
+Rol Exsis: 
+1) Smart Contracts in Solidity with MetaMask wallet
+2) User Portal
+3) FrontEnd - JS - ThreeJS
 
 Tareas feb 2023
 Compartir bibliografía de las bases
