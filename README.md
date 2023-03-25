@@ -209,6 +209,8 @@ https://sharmaji27.medium.com/live-weather-forecast-flask-app-ffcbbc4d97a7
 Fuentes de datos:
 -)Open Weather
 -) tutiempo.net
+-) Mexico: https://climateknowledgeportal.worldbank.org/country/mexico/vulnerability
+
 
 Referentes Mapas
 -) Python - Streamlit: https://docs.streamlit.io/library/api-reference/charts/st.pydeck_chart
