@@ -8,6 +8,8 @@ Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
 ISO 9001 Quality
 Regulator
 
+Certification in Climate Risk:
+https://www.cisi.org/cisiweb2/cisi-website/study-with-us/certificate-in-climate-risk
 
 Rol Exsis: 
 1) Smart Contracts in Solidity with MetaMask wallet
