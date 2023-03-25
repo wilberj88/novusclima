@@ -38,6 +38,8 @@ Streamlit Visualizaciones:
 Clima: General Widgets: 1) Elements, 2) Vertical Slider, 3) Toggle Swithc, 4) Custom Toggle.
 Clima: Charts. Echarts: 1) Graph, 2) Graph Force, 3) Liquidfill, 4) Gauge Ring, 5) Theme River, 6) Legent Event, 7) SunBurst
 Clima: Pyechart: 1) map, 2) Prophet library
+https://link.medium.com/7XyZWcwKgyb
+
 
 Sensores de Truenos: Kreaunos LATAM
 www.keraunos.co
