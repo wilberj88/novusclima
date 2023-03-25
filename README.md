@@ -14,6 +14,8 @@ https://www.cisi.org/cisiweb2/cisi-website/study-with-us/certificate-in-climate-
 Monitoring Sea Surface Temperature at the global level with GEE | by Bryan R. Vallejo | Mar, 2023 | Towards Data Science
 https://towardsdatascience.com/monitoring-sea-surface-temperature-at-the-global-level-with-gee-1d7349c7da6
 
+Mitigar-Socorrer:
+https://es.weforum.org/agenda/2023/02/terremoto-en-turquia-y-siria-como-la-inteligencia-artificial-y-las-nuevas-tecnologias-ayudan-en-las-labores-de-socorro/
 
 Rol Exsis: 
 1) Smart Contracts in Solidity with MetaMask wallet
