@@ -99,6 +99,7 @@ https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelli
 WildFires Analysis:
 https://towardsdatascience.com/using-artificial-intelligence-to-predict-the-spread-of-wildfires-with-python-30386e28162f
 https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil
+https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
 
 Servicio Satelital en Tiempo Real con AWS:
 https://affine.ai/telescope/
