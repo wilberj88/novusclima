@@ -17,6 +17,9 @@ https://towardsdatascience.com/monitoring-sea-surface-temperature-at-the-global-
 Mitigar-Socorrer:
 https://es.weforum.org/agenda/2023/02/terremoto-en-turquia-y-siria-como-la-inteligencia-artificial-y-las-nuevas-tecnologias-ayudan-en-las-labores-de-socorro/
 
+Python 3D Lidar
+https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
+
 NVIDIA omniverse: Industrial Metaverse
 https://cesium.com/blog/2023/03/21/cesium-for-omniverse-launch/
 
