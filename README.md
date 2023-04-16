@@ -17,6 +17,9 @@ https://towardsdatascience.com/monitoring-sea-surface-temperature-at-the-global-
 Mitigar-Socorrer:
 https://es.weforum.org/agenda/2023/02/terremoto-en-turquia-y-siria-como-la-inteligencia-artificial-y-las-nuevas-tecnologias-ayudan-en-las-labores-de-socorro/
 
+NVIDIA omniverse: Industrial Metaverse
+https://cesium.com/blog/2023/03/21/cesium-for-omniverse-launch/
+
 Rol Exsis: 
 1) Smart Contracts in Solidity with MetaMask wallet
 2) User Portal
