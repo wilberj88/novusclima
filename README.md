@@ -117,6 +117,10 @@ https://github.com/gerardrbentley/peak-weather
 https://gerardrbentley-peak-weather-streamlit-appstreamlit-app-6asgew.streamlit.app/
 
 
+Time Series for Climate Change: Forecasting Wind Power | by Vitor Cerqueira | Mar, 2023 | Towards Data Science
+https://towardsdatascience.com/time-series-for-climate-change-forecasting-wind-power-8ed6d653a255
+
+
 Referentes:
 https://sharmaji27.medium.com/live-weather-forecast-flask-app-ffcbbc4d97a7
 
