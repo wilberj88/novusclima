@@ -20,6 +20,9 @@ https://es.weforum.org/agenda/2023/02/terremoto-en-turquia-y-siria-como-la-intel
 Python 3D Lidar
 https://towardsdatascience.com/3d-python-workflows-for-lidar-point-clouds-100ff40e4ff0
 
+JavaScript 3D + ChatGPT:
+https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-development-1217aaf155c8
+
 NVIDIA omniverse: Industrial Metaverse
 https://cesium.com/blog/2023/03/21/cesium-for-omniverse-launch/
 
