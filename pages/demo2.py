@@ -12,7 +12,7 @@ import altair as alt
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 
-st.title('Novus Clima ⛅ Demo')
+st.title('Novus Mando - Clima ⛅ Demo')
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
 #st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
 
@@ -71,7 +71,7 @@ if st.button('Calcular diagnóstico gratuito'):
         
 st.write("""
 **No asumas estos riesgos sin estar blindado**
-- Asegúrate con `Novus Clima` y `Exsis` y despreocúpate de los riesgos climáticos
+- Asegúrate con la tecnología de `Novus Mando - Clima` y despreocúpate de los riesgos climáticos
 """)
 st.write('---')
 
@@ -80,7 +80,7 @@ if st.button('Activa tu plan anual de Monitoreo + Mitigación + Adaptación'):
         st.text_input("Incorpore su firma si está de acuerdo con las condiciones")
 
         st.text_input("Incorpore su correo electrónico para envío de factura")
-        st.write('Gracias por confiar en los servicios de Novus Clima ⛅ y Exsis')
+        st.write('Gracias por confiar en los servicios de Novus Mando - Clima ⛅')
         
         
 hide_default_format = """
