@@ -9,6 +9,7 @@ ISO 9001 Quality
 Regulator
 
 Referentes:
+https://www.worldbank.org/en/results/2017/12/01/climate-insurance
 https://www.mckinsey.com/industries/financial-services/our-insights/capturing-the-climate-opportunity-in-insurance
 https://indexinsuranceforum.org/climate-insurance
 
