@@ -8,9 +8,13 @@ Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
 ISO 9001 Quality
 Regulator
 
+Referentes:
+https://www.mckinsey.com/industries/financial-services/our-insights/capturing-the-climate-opportunity-in-insurance
+https://indexinsuranceforum.org/climate-insurance
+
 Historicos:
 Argentina 2022-2023 sequias ompacto 20.000MUSD fuente DW
-
+Colombia Fenómeno del Niño + Armero:
 
 Certification in Climate Risk:
 https://www.cisi.org/cisiweb2/cisi-website/study-with-us/certificate-in-climate-risk
