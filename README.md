@@ -251,6 +251,12 @@ Referentes Mapas
 -) Python - Streamlit: https://docs.streamlit.io/library/api-reference/charts/st.pydeck_chart
 -) R - Rayder: www.rayrender.net![image](https://user-images.githubusercontent.com/49035216/198897239-870e5a0e-0bd4-40ec-a030-4c759e128090.png)
 
+
+
+
+Time Series for Climate Change: Forecasting Large Ocean Waves | by Vitor Cerqueira | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/time-series-for-climate-change-forecasting-large-ocean-waves-78484536be36
+
 				
 Novus Agro + Novus Aqua + Novus Clima: riego inteligente
 						Tesis IA:
