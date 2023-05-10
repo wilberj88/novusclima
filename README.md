@@ -18,6 +18,8 @@ https://indexinsuranceforum.org/climate-insurance
 Time Series for Climate Change: Forecasting Energy Demand | by Vitor Cerqueira | May, 2023 | Towards Data Science
 https://towardsdatascience.com/time-series-for-climate-change-forecasting-energy-demand-79f39c24c85e
 
+Data Mesh: Making Climate Data Easy to Find, Use, and Share | by Eric Broda | Towards Data Science
+https://towardsdatascience.com/making-climate-data-easy-to-find-use-and-share-5190a0926407
 
 Historicos:
 Argentina 2022-2023 sequias ompacto 20.000MUSD fuente DW
