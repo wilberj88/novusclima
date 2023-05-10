@@ -14,6 +14,11 @@ https://www.worldbank.org/en/results/2017/12/01/climate-insurance
 https://www.mckinsey.com/industries/financial-services/our-insights/capturing-the-climate-opportunity-in-insurance
 https://indexinsuranceforum.org/climate-insurance
 
+
+Time Series for Climate Change: Forecasting Energy Demand | by Vitor Cerqueira | May, 2023 | Towards Data Science
+https://towardsdatascience.com/time-series-for-climate-change-forecasting-energy-demand-79f39c24c85e
+
+
 Historicos:
 Argentina 2022-2023 sequias ompacto 20.000MUSD fuente DW
 Colombia Fenómeno del Niño + Armero:
