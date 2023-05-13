@@ -128,6 +128,7 @@ Semantic Segmentation: buildings, roads...
 https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
 
 WildFires Analysis:
+wildfires in the United States from 1992 to 2015: https://levelup.gitconnected.com/unlock-the-potential-of-data-visualization-with-these-amazing-python-libraries-1551f6505a29
 https://towardsdatascience.com/using-artificial-intelligence-to-predict-the-spread-of-wildfires-with-python-30386e28162f
 https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil
 https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
