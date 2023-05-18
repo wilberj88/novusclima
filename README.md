@@ -106,6 +106,7 @@ https://threejs.org/examples/#webgl_gpgpu_water
 
 GIS with ChatGpt
 https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
+https://medium.com/data-and-beyond/dash-ing-maps-with-chatgpt-and-python-interactive-maps-in-no-time-flat-bf418566b71d
 
 Data:
 GLOBAL
@@ -132,6 +133,7 @@ wildfires in the United States from 1992 to 2015: https://levelup.gitconnected.c
 https://towardsdatascience.com/using-artificial-intelligence-to-predict-the-spread-of-wildfires-with-python-30386e28162f
 https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil
 https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
+https://medium.com/data-and-beyond/dash-ing-maps-with-chatgpt-and-python-interactive-maps-in-no-time-flat-bf418566b71d
 
 Servicio Satelital en Tiempo Real con AWS:
 https://affine.ai/telescope/
