@@ -146,7 +146,7 @@ Real time Weather Updates:
 https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
 https://github.com/gerardrbentley/peak-weather
 https://gerardrbentley-peak-weather-streamlit-appstreamlit-app-6asgew.streamlit.app/
-
+Meteostat API: https://medium.com/@shantanu.dave01/extracting-and-analyzing-weather-data-using-meteostat-api-238d67de8e98
 
 Time Series for Climate Change: Forecasting Wind Power | by Vitor Cerqueira | Mar, 2023 | Towards Data Science
 https://towardsdatascience.com/time-series-for-climate-change-forecasting-wind-power-8ed6d653a255
