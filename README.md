@@ -24,6 +24,9 @@ https://towardsdatascience.com/time-series-for-climate-change-forecasting-energy
 Data Mesh: Making Climate Data Easy to Find, Use, and Share | by Eric Broda | Towards Data Science
 https://towardsdatascience.com/making-climate-data-easy-to-find-use-and-share-5190a0926407
 
+Precipitation & South America`s Raster Data:
+https://towardsdatascience.com/harnessing-precipitation-and-climatological-raster-data-in-south-america-18ec36d683
+
 Historicos:
 Argentina 2022-2023 sequias ompacto 20.000MUSD fuente DW
 Colombia Fenómeno del Niño + Armero:
