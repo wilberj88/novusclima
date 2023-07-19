@@ -163,7 +163,7 @@ if st.button('Calcular diagnóstico gratuito'):
 
 st.write("""
 **No asumas estos riesgos sin estar blindado**
-- Asegúrate con `Novus Clima` y `Exsis` y despreocúpate de los riesgos climáticos
+- Asegúrate con `Novus Clima` y despreocúpate de los riesgos climáticos
 """)
 st.write('---')
 
