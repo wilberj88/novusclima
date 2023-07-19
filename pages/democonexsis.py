@@ -12,7 +12,7 @@ import altair as alt
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 
-st.title('Novus Clima ⛅ Demo by NovusTech + Exsis')
+st.title('Novus Clima ⛅ Demo by NovusTech')
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
 #st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
 
