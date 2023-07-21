@@ -13,6 +13,18 @@ import altair as alt
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
 
 st.title('Novus Clima ⛅ Tech for save the Planet 🌎')
+
+st.markdown(
+  """
+  En esta web encontrarás:
+  - 🔎 _    Diagnóstico de tus riesgos climáticos y de transición energética
+  - 🛒 _    Recomendación de Crédito Verde requerido para Transición Energética-Climática
+  - ✍️ _     Propuesta Inteligente de Contrato
+    
+  EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
+  """
+)
+
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
 #st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
 
