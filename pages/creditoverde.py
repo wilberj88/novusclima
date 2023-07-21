@@ -18,8 +18,8 @@ st.markdown(
   """
   En esta web encontrarás:
   - 🔎 _    Diagnóstico de tus riesgos climáticos y de transición energética
-  - 🛒 _    Recomendación de Crédito Verde requerido para Transición Energética-Climática
-  - ✍️ _     Propuesta Inteligente de Contrato
+  - 🛒 _    Plan de Crédito Verde requerido para Transición Energética-Climática a neutralidad en 2050
+  - ✍️ _     Propuesta Inteligente de Contrato de Seguros Climáticos con Planes de Mitigación y Adaptación
     
   EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
   """)
