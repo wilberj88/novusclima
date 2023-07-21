@@ -134,7 +134,7 @@ if st.button('Calcular diagnóstico gratuito'):
                         "type": "radar",
                         "data": [
                             {
-                                "value": [2000, 10000, 20000, 3500, 15000, 11800],
+                                "value": [6000, 10000, 20000, 3500, 15000, 11800],
                                 "name": "Consumo Actual",
                             },
                             {
