@@ -22,8 +22,7 @@ st.markdown(
   - ✍️ _     Propuesta Inteligente de Contrato
     
   EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
-  """
-)
+  """)
 
 st.header("¿Sabes cuánto te costaría la próxima crisis climática en tu zona?🌎")
 #st.write("Selecciona una zona en el mapa y averígualo ahora 🕰")
