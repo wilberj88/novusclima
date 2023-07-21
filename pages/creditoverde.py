@@ -120,8 +120,8 @@ if st.button('Calcular diagnóstico gratuito'):
                 "legend": {"data": ["Consumo Actual", "Consumo Óptimo"]},
                 "radar": {
                     "indicator": [
-                        {"name": "Agua", "max": 6500},
-                        {"name": "Carbón", "max": 16000},
+                        {"name": "Carbón", "max": 6500},
+                        {"name": "Agua", "max": 16000},
                         {"name": "Viento", "max": 30000},
                         {"name": "Sol", "max": 38000},
                         {"name": "Petróleo", "max": 52000},
@@ -184,11 +184,11 @@ if st.button('Calcular diagnóstico gratuito'):
 
 st.write("""
 **No asumas estos riesgos sin estar blindado**
-- Asegúrate con `Novus Clima` y despreocúpate de los riesgos climáticos
+- Financia tu Transición Climática y Asegúrate en el camino con `Novus Clima`
 """)
 st.write('---')
 
-if st.button('Activa tu plan anual de Monitoreo + Mitigación + Adaptación'):    
+if st.button('Activa tu Plan anual de Transición Climática'):    
         st.title('Tenemos un contrato 📜  personalizado 🎯 a tu diagnóstico 🔎 ')
         st.text_input("Incorpore su firma si está de acuerdo con las condiciones")
 
