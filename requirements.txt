@@ -7,3 +7,4 @@ altair
 #qgis.core
 plotly.express
 folium
+vega_datasets
