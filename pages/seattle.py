@@ -54,3 +54,5 @@ bars = (
 chart = alt.vconcat(points, bars, data=source, title="Seattle Weather: 2012-2015")
 
 st.altair_chart(chart, theme="streamlit", use_container_width=True)
+
+st.altair_chart(chart, theme=None, use_container_width=True)
