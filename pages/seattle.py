@@ -5,7 +5,7 @@ from vega_datasets import data
 source = data.seattle_weather()
 
 scale = alt.Scale(
-    domain=["sun", "fog", "drizzle", "rain", "snow"],
+    domain=["sol", "niebla", "llovizna", "lluvia", "nieve"],
     range=["#e7ba52", "#a7a7a7", "#aec7e8", "#1f77b4", "#9467bd"],
 )
 color = alt.Color("weather:N", scale=scale)
@@ -51,8 +51,8 @@ bars = (
     .add_selection(click)
 )
 
-chart = alt.vconcat(points, bars, data=source, title="Seattle Weather: 2012-2015")
+chart = alt.vconcat(points, bars, data=source, title="Seattle Clima: 2012-2015")
 
 st.altair_chart(chart, theme="streamlit", use_container_width=True)
 
-st.altair_chart(chart, theme=None, use_container_width=True)
+
