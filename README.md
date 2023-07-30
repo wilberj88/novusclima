@@ -13,6 +13,10 @@ Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
 ISO 9001 Quality
 Regulator
 
+
+Colombia a 2050:
+https://openknowledge.worldbank.org/entities/publication/9b706816-2618-48d0-87d4-e7e99b7ad779
+
 Referentes:
 https://www.undrr.org/comprehensive-disaster-and-climate-risk-management-crm
 https://www.worldbank.org/en/results/2017/12/01/climate-insurance
