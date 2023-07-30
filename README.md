@@ -16,6 +16,8 @@ Regulator
 
 Colombia a 2050:
 https://openknowledge.worldbank.org/entities/publication/9b706816-2618-48d0-87d4-e7e99b7ad779
+Colombia Riesgos de Destastres por Municipios:
+https://colaboracion.dnp.gov.co/CDT/Prensa/IndiceMunicipaldeRiesgodeDesastres.pdf
 
 Referentes:
 https://www.undrr.org/comprehensive-disaster-and-climate-risk-management-crm
