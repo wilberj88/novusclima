@@ -28,6 +28,7 @@ https://www.undrr.org/comprehensive-disaster-and-climate-risk-management-crm
 https://www.worldbank.org/en/results/2017/12/01/climate-insurance
 https://www.mckinsey.com/industries/financial-services/our-insights/capturing-the-climate-opportunity-in-insurance
 https://indexinsuranceforum.org/climate-insurance
+Data USA: https://www.weather.gov/
 
 Addressing Climate Change - The Rockefeller Foundation
 https://www.rockefellerfoundation.org/bellagio-center/convenings/addressing-climate-change/
