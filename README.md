@@ -5,6 +5,10 @@ https://www.mapfre.com.co/seguros-agropecuarios/climatico/
 https://www.arbol.io/
 https://agroseguro.es/
 
+Referentes:
+Atento prevención y reacción: https://weather-chat-ai.fly.dev/
+
+
 Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir (IFC: International Fire Consultants Ltd: Certificado para Financiación)
 https://www.ifccertification.com/clients/application/default.html
 Manufacturer
