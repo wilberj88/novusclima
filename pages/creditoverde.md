@@ -1,6 +1,7 @@
 Referentes comerciales:
 https://cryptocampo.net/
 Alternun
+https://es.wired.com/articulos/toucan-cripto-empresa-combatir-cambio-climatico
 
 Stack:
 1) Blockchain in Rust (for security) + NEAR.org explorer.NEAR.org
