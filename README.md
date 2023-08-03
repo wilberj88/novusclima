@@ -7,6 +7,7 @@ https://agroseguro.es/
 
 Referentes:
 Atento prevención y reacción: https://weather-chat-ai.fly.dev/
+Blockchain-Tokens-Support: https://greentoken.org/
 
 
 Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir (IFC: International Fire Consultants Ltd: Certificado para Financiación)
