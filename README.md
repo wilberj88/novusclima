@@ -33,7 +33,7 @@ Data USA: https://www.weather.gov/
 
 Addressing Climate Change - The Rockefeller Foundation
 https://www.rockefellerfoundation.org/bellagio-center/convenings/addressing-climate-change/
-
+https://www.adb.org/publications/blockchain-tokenized-securities-potential-green-finance
 
 Time Series for Climate Change: Forecasting Energy Demand | by Vitor Cerqueira | May, 2023 | Towards Data Science
 https://towardsdatascience.com/time-series-for-climate-change-forecasting-energy-demand-79f39c24c85e
