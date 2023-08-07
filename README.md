@@ -1,4 +1,26 @@
 # novusclima
+Pólizas Climáticas con:
+Créditos Verdes para Captura de Carbono o Reducción de Emisión vía Transición Energética a Neutralidad Carbono en 2050
+Seguro Climático con prima dinámica de corresponsabilidad con sistemas inteligentes de: 
+Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir 
+1. Vientos
+2. Granizo
+3. Lluvia
+4. Sequía
+5. Inundaciones
+6. Heladas
+7. Deslizamientos
+8. Avalanchas
+
+(IFC: International Fire Consultants Ltd: Certificado para Financiación)
+https://www.ifccertification.com/clients/application/default.html
+Manufacturer
+Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
++ Water + Steel
+ISO 9001 Quality
+Regulator
+
+
 
 Potenciales Aliados:
 https://www.mapfre.com.co/seguros-agropecuarios/climatico/
@@ -9,14 +31,6 @@ Referentes:
 Atento prevención y reacción: https://weather-chat-ai.fly.dev/
 Blockchain-Tokens-Support: https://greentoken.org/
 https://quantoz.com/publications/tokenization-bringing-liquidity-to-the-green-bonds-market/
-
-Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir (IFC: International Fire Consultants Ltd: Certificado para Financiación)
-https://www.ifccertification.com/clients/application/default.html
-Manufacturer
-Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
-+ Water + Steel
-ISO 9001 Quality
-Regulator
 
 
 Colombia a 2050:
