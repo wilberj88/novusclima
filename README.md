@@ -1,8 +1,8 @@
 # novusclima
-Pólizas Climáticas con:
+Pólizas Climáticas con soluciones basadas en la naturaleza y en la IA:
 Créditos Verdes para Captura de Carbono o Reducción de Emisión vía Transición Energética a Neutralidad Carbono en 2050
 Seguro Climático con prima dinámica de corresponsabilidad con sistemas inteligentes de: 
-Monitorear + Mitigar-Reaccionar + Adaptar-Prevenir 
+Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora + kit fauna)
 1. Vientos
 2. Granizo
 3. Lluvia
