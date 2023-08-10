@@ -86,7 +86,10 @@ https://levelup.gitconnected.com/train-chatgpt-to-automate-3d-web-gis-developmen
 NVIDIA omniverse: Industrial Metaverse
 https://cesium.com/blog/2023/03/21/cesium-for-omniverse-launch/
 
-Rol Exsis: 
+HeatMap:
+https://dwikita-ichsana.medium.com/meteorology-101-how-to-plot-heatmap-953688ac4870
+
+Rol Aliado: 
 1) Smart Contracts in Solidity with MetaMask wallet
 2) User Portal
 3) FrontEnd - JS - ThreeJS
