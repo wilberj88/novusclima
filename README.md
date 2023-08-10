@@ -48,6 +48,7 @@ https://www.worldbank.org/en/results/2017/12/01/climate-insurance
 https://www.mckinsey.com/industries/financial-services/our-insights/capturing-the-climate-opportunity-in-insurance
 https://indexinsuranceforum.org/climate-insurance
 Data USA: https://www.weather.gov/
+GeoReports: https://medium.com/analytics-vidhya/python-for-geosciences-scatter-plots-and-pdf-reports-4e4dcec70e4d
 
 Addressing Climate Change - The Rockefeller Foundation
 https://www.rockefellerfoundation.org/bellagio-center/convenings/addressing-climate-change/
