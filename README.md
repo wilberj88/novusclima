@@ -20,7 +20,8 @@ Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
 ISO 9001 Quality
 Regulator
 
-
+Geospatial Count of Trees:
+https://towardsdatascience.com/speed-up-your-geospatial-data-analysis-with-r-trees-4f75abdc6025
 
 Potenciales Aliados:
 https://www.mapfre.com.co/seguros-agropecuarios/climatico/
