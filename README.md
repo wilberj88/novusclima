@@ -32,6 +32,9 @@ Atento prevención y reacción: https://weather-chat-ai.fly.dev/
 Blockchain-Tokens-Support: https://greentoken.org/
 https://quantoz.com/publications/tokenization-bringing-liquidity-to-the-green-bonds-market/
 
+Global Population Density for 400m H3:
+https://data.humdata.org/dataset/kontur-population-dataset
+
 
 Colombia a 2050:
 https://openknowledge.worldbank.org/entities/publication/9b706816-2618-48d0-87d4-e7e99b7ad779
