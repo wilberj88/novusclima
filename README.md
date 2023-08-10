@@ -49,6 +49,7 @@ https://www.mckinsey.com/industries/financial-services/our-insights/capturing-th
 https://indexinsuranceforum.org/climate-insurance
 Data USA: https://www.weather.gov/
 GeoReports: https://medium.com/analytics-vidhya/python-for-geosciences-scatter-plots-and-pdf-reports-4e4dcec70e4d
+Water Detection: https://towardsdatascience.com/water-detection-in-high-resolution-satellite-images-using-the-waterdetect-python-package-7c5a031e3d16
 
 Addressing Climate Change - The Rockefeller Foundation
 https://www.rockefellerfoundation.org/bellagio-center/convenings/addressing-climate-change/
