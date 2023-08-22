@@ -11,6 +11,8 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 6. Heladas
 7. Deslizamientos
 8. Avalanchas
+9. Terremotos
+10. Huracanes
 
 (IFC: International Fire Consultants Ltd: Certificado para Financiación)
 https://www.ifccertification.com/clients/application/default.html
