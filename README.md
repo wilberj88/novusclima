@@ -18,7 +18,7 @@ Weather - Climate Dissaster Forecast:
 based on historical data (temperature, humidity and wind speed)
 Weather Labels
 Climate dissaster Labels 
-Model: Decision Tree Classifier + Naive Bayes Classifier
+Model: Decision Tree Classifier + Naive Bayes Classifier (Multinomial, Gaussian and Bernoulli's)
 full forecast: (dataframe: weekday, forecast, temperature, humidity and wind speed)
 
 
