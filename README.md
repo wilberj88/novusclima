@@ -14,6 +14,15 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 9. Terremotos
 10. Huracanes
 
+Weather - Climate Dissaster Forecast:
+based on historical data (temperature, humidity and wind speed)
+Weather Labels
+Climate dissaster Labels 
+Model: Decision Tree Classifier
+full forecast: (dataframe: weekday, forecast, temperature, humidity and wind speed)
+
+
+
 (IFC: International Fire Consultants Ltd: Certificado para Financiación)
 https://www.ifccertification.com/clients/application/default.html
 Manufacturer
