@@ -15,7 +15,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 10. Huracanes
 
 Weather - Climate Dissaster Forecast:
-based on historical data (temperature, humidity and wind speed)
+based on historical data (temperature, precipitacy, humidity and wind speed)
 Weather Labels
 Climate dissaster Labels 
 Model: Decision Tree Classifier + Naive Bayes Classifier (Multinomial, Gaussian and Bernoulli's)
