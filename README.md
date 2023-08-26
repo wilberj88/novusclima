@@ -24,7 +24,8 @@ Climate dissaster Labels
 Model: Decision Tree Classifier + Naive Bayes Classifier (Multinomial, Gaussian and Bernoulli's)
 full forecast: (dataframe: weekday, forecast, temperature, humidity and wind speed)
 reference: youtube AK Python 
-
+real time data:
+intensity, duration, extent of Precipitation 
 
 (IFC: International Fire Consultants Ltd: Certificado para Financiación)
 https://www.ifccertification.com/clients/application/default.html
