@@ -3,7 +3,7 @@ Pólizas Climáticas con soluciones basadas en la naturaleza y en la IA:
 Créditos Verdes para Captura de Carbono o Reducción de Emisión vía Transición Energética a Neutralidad Carbono en 2050 (Blockchain NEAR neutro en carbono: Stack Python Rust)
 Seguro Climático con prima dinámica de corresponsabilidad con sistemas inteligentes de: 
 Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora + kit fauna)
-1. Vientos
+1. Vientos: https://towardsdatascience.com/time-series-for-climate-change-forecasting-wind-power-8ed6d653a255
 2. Granizo
 3. Lluvia: https://towardsdatascience.com/does-rain-predict-rain-us-weather-data-and-the-correlation-of-rain-today-and-tomorrow-3a62eda6f7f7
 4. Sequía
@@ -137,6 +137,7 @@ Servicio mensual de soporte
 Daniela Ramírez: 3125315092
 Cobertrura Colombia, Panamá, México, Ecuador y Perú.
 Ideam intercambia datos
+
 
 Satellite Image 
 Time Series:
