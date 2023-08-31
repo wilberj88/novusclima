@@ -12,10 +12,11 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 7. Deslizamientos
 8. Avalanchas
 9. Terremotos
-10. Huracanes
+10. Huracanes: 
 11. incendios: 
 https://www.mauicounty.gov/DocumentCenter/View/129491/Report-on-Wildfire-Prevention--Cost-Recovery-on-Maui---Part-4-Exhibit-D-25-MB
 https://elpais.com/clima-y-medio-ambiente/2023-08-25/que-deberiamos-aprender-de-los-incendios-de-hawai.html
+12: Océanos: temperatura: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
 
 Weather - Climate Dissaster Forecast:
 based on historical data (temperature, precipitacy, humidity and wind speed)
