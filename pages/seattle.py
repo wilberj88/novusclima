@@ -1,6 +1,19 @@
 import altair as alt
 import streamlit as st
 from vega_datasets import data
+import time
+import datetime
+
+st.write('---')
+st.header("Climate´s Risks in Seattle rigth now")
+current_time = time.ctime()
+st.write("At: ", current_time)
+col1, col2, col3, col4 = st.columns(4)
+col1.metric("Wildfire", "57%", "14%")
+col2.metric("Flooding", "25%", "-18%")
+col3.metric("Drought", "89%", "13%")
+col4.metric("Hurricanes", "45%", "18%")
+
 
 source = data.seattle_weather()
 
@@ -51,7 +64,7 @@ bars = (
     .add_selection(click)
 )
 
-chart = alt.vconcat(points, bars, data=source, title="Seattle Weather: 2012-2015")
+chart = alt.vconcat(points, bars, data=source, title="Historic Seattle Weather: 2012-2015")
 
 tab1, tab2 = st.tabs(["Streamlit theme (default)", "Altair native theme"])
 
