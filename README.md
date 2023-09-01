@@ -130,7 +130,7 @@ Clima: Pyechart: 1) map, 2) Prophet library
 https://link.medium.com/7XyZWcwKgyb
 
 
-Sensores de Truenos: Kreaunos LATAM
+Sensores de Rayos: Kreaunos LATAM
 www.keraunos.co
 52 millones el sensor de campo electromagnético para 25km2
 Servicio mensual de soporte
@@ -175,7 +175,8 @@ https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
 https://towardsdatascience.com/the-most-powerful-climate-data-remains-hidden-87cb0a0bf302
 https://towardsdatascience.com/co2-emissions-infographics-in-python-369dd968eb84
 https://towardsdatascience.com/top-5-places-to-find-climate-change-datasets-e3f5a7ee2139
-
+WILDFIRES:
+AEMET, Modis Collection 6.1 by Nasa Terra and Aqua Satellites global fire data, Spains Miteco
 
 Mando Mapa:
 https://medium.com/@insightsbees/streamlit-for-dashboards-and-web-apps-a-complete-beginners-tutorial-part-2-ee6e9fe8e510
