@@ -75,3 +75,13 @@ with tab1:
     st.altair_chart(chart, theme="streamlit", use_container_width=True)
 with tab2:
     st.altair_chart(chart, theme=None, use_container_width=True)
+
+
+st.header("Climate´s OPPORTUNITIES in Seattle rigth now")
+current_time = time.ctime()
+st.write("At: ", current_time)
+col5, col6, col7, col8 = st.columns(4)
+col1.metric("FIRE EXTINGUISHERS", "97%", "14%")
+col2.metric("FIRE EXTINGUISHERS", "45%", "-18%")
+col3.metric("KAYAKS", "85%", "13%")
+col4.metric("SHELTERS", "35%", "18%")
