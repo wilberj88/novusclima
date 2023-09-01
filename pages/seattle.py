@@ -4,7 +4,10 @@ from vega_datasets import data
 import time
 import datetime
 
-st.write('---')
+# SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
+st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
+
+st.title('Novus Clima ⛅')
 st.header("Climate´s Risks in Seattle rigth now")
 current_time = time.ctime()
 st.write("At: ", current_time)
