@@ -13,7 +13,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 8. Avalanchas
 9. Terremotos
 10. Huracanes: 
-11. incendios: https://elpais.com/clima-y-medio-ambiente/2023-08-25/que-deberiamos-aprender-de-los-incendios-de-hawai.html https://www.mauicounty.gov/DocumentCenter/View/129491/Report-on-Wildfire-Prevention--Cost-Recovery-on-Maui---Part-4-Exhibit-D-25-MB
+11. incendios: https://python.plainenglish.io/collect-ndvi-data-for-every-us-wildfire-in-2022-using-python-and-google-earth-engine-77dfa53ac0c3 https://elpais.com/clima-y-medio-ambiente/2023-08-25/que-deberiamos-aprender-de-los-incendios-de-hawai.html https://www.mauicounty.gov/DocumentCenter/View/129491/Report-on-Wildfire-Prevention--Cost-Recovery-on-Maui---Part-4-Exhibit-D-25-MB
 12. Océanos
     12.1 Temperatura + 12.2 Hielo polar: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
 
