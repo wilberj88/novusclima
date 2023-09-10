@@ -17,7 +17,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 12. Océanos
     12.1 Temperatura + 12.2 Hielo polar: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
 
-Weather - Climate Dissaster Forecast:
+Weather - Climate Dissaster Forecast: https://www.kaggle.com/code/thuongtuandang/weather-prediction-with-mixture-models-88
 based on historical data (temperature, precipitacy, humidity and wind speed)
 Weather Labels
 Climate dissaster Labels 
