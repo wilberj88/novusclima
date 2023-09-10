@@ -35,6 +35,9 @@ Installer Alarm Systems + Ductwork + Fire Doors + Glazed Screens
 ISO 9001 Quality
 Regulator
 
+SAles Impact. Wallmart`s Case
+https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather
+
 Geospatial Count of Trees:
 https://towardsdatascience.com/speed-up-your-geospatial-data-analysis-with-r-trees-4f75abdc6025
 
