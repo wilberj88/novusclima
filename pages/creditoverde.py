@@ -184,7 +184,7 @@ if st.button('Calcular diagnóstico gratuito'):
         # fig.update_traces(fill='toself')
     fig.show()
     
-    @st.experimental_memo
+
     def get_chart_25713448():
         url = 'https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/sankey_energy.json'
         response = urllib.request.urlopen(url)
