@@ -220,12 +220,8 @@ if st.button('Calcular diagnóstico gratuito'):
     fig.update_layout(title_text="Energy forecast for 2050<br>Source: Department of Energy & Climate Change, Tom Counsell via <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock</a>",
                       font_size=10)
 
-    tab1, tab2 = st.tabs(["Streamlit theme (default)", "Plotly native theme"])
-    with tab1:
-        st.plotly_chart(fig, theme="streamlit")
-    with tab2:
-        st.plotly_chart(fig, theme=None)
-
+    st.plotly_chart(fig, theme="streamlit")
+    
 
 st.write("""
 **No asumas estos riesgos sin estar blindado**
