@@ -8,3 +8,4 @@ altair
 plotly.express
 folium
 vega_datasets
+streamlit_extras
