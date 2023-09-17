@@ -3,6 +3,7 @@ import streamlit as st
 from vega_datasets import data
 import time
 import datetime
+import streamlit_extras
 from streamlit_extras.altex import hist_chart, get_weather_data
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
