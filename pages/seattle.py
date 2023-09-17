@@ -4,7 +4,7 @@ from vega_datasets import data
 import time
 import datetime
 import streamlit_extras
-from streamlit_extras.altex import hist_chart, get_weather_data
+from streamlit_extras.altex import sparkline_chart, get_stocks_data
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
@@ -89,14 +89,35 @@ col7.metric("KAYAKS", "85%", "13%")
 col8.metric("SHELTERS", "35%", "18%")
 
 
-weather = get_weather_data()
-hist_chart(
-    data=weather,
-    x="week(date):T",
-    y="day(date):T",
-    color=alt.Color(
-        "median(temp_max):Q",
-        legend=None,
-    ),
-    title="Temporal (week) Opportunities by Median Max Temperature for Seattle",
-)
+stocks = get_stocks_data()
+left, middle, right = st.columns(3)
+with left:
+    data = stocks.query("symbol == 'GOOG'")
+    st.metric("GOOG", int(data["price"].mean()))
+    sparkline_chart(
+        data=data,
+        x="date",
+        y="price:Q",
+        height=80,
+        autoscale_y=True,
+    )
+with middle:
+    data = stocks.query("symbol == 'MSFT'")
+    st.metric("MSFT", int(data["price"].mean()))
+    sparkline_chart(
+        data=data,
+        x="date",
+        y="price:Q",
+        height=80,
+        autoscale_y=True,
+    )
+with right:
+    data = stocks.query("symbol == 'AAPL'")
+    st.metric("AAPL", int(data["price"].mean()))
+    sparkline_chart(
+        data=data,
+        x="date",
+        y="price:Q",
+        height=80,
+        autoscale_y=True,
+    )
