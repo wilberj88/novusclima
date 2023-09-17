@@ -3,6 +3,7 @@ import streamlit as st
 from vega_datasets import data
 import time
 import datetime
+from streamlit_extras.altex import hist_chart, get_weather_data
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
@@ -85,3 +86,16 @@ col5.metric("FIRE EXTINGUISHERS", "97%", "14%")
 col6.metric("WATER WUMPS", "45%", "-18%")
 col7.metric("KAYAKS", "85%", "13%")
 col8.metric("SHELTERS", "35%", "18%")
+
+
+weather = get_weather_data()
+hist_chart(
+    data=weather,
+    x="week(date):T",
+    y="day(date):T",
+    color=alt.Color(
+        "median(temp_max):Q",
+        legend=None,
+    ),
+    title="Temporal (week) Opportunities by Median Max Temperature for Seattle",
+)
