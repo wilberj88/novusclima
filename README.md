@@ -18,6 +18,11 @@ https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
 13. Océanos
     12.1 Temperatura + 12.2 Hielo polar: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
 
+Data Monitoring:
+https://adamplatform.eu/home-page/
+https://adamplatform.eu/
+
+
 Weather - Climate Dissaster Forecast: https://www.kaggle.com/code/thuongtuandang/weather-prediction-with-mixture-models-88
 based on historical data (temperature, precipitacy, humidity and wind speed)
 Weather Labels
