@@ -3,6 +3,9 @@ Potenciales fondos:
 1) https://www.theatlascapital.com/
 2) El de Hugo Bahamon
 
+Servicios intermedios de sostenibilidad
+1) Reporte de cumplimiento en Bolsa de Valores
+
 Pólizas Climáticas con soluciones basadas en la naturaleza y en la IA:
 Créditos Verdes para Captura de Carbono o Reducción de Emisión vía Transición Energética a Neutralidad Carbono en 2050 (Blockchain NEAR neutro en carbono: Stack Python Rust)
 Seguro Climático con prima dinámica de corresponsabilidad con sistemas inteligentes de: 
