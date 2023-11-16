@@ -25,18 +25,28 @@ colored_header(
     color_name="violet-70",
 )
 with st.expander("Alcance"):
-    st.subheader('Detalles')
+    st.subheader('Traer clientes')
     st.write('Centrales de Mando desde 2.500 USD mes')
     st.write('Comisión comercial: 20%')
 
 colored_header(
     label="2. Alianza Financiera",
-    description="Financiar el Centro de Investigación y Desarrollo",
+    description="Ayudar a financiar el Centro de Investigación y Desarrollo",
     color_name="violet-70",
 )
-
+with st.expander("Alcance"):
+    st.subheader('Traer Inversionistas')
+    st.write('Etapa 1: 1M USD')
+    st.write('Etapa 2: 3M USD')
+    st.write('Etapa 3: 10M USD')
+    st.write('Comisión de banca de inversión: 5%')
+    
 colored_header(
     label="3. Alianza Operativa",
-    description="Co Crear Sistemas de Mitigación y Adaptación",
+    description="Co Crear Juntos",
     color_name="violet-70",
 )
+with st.expander("Alcance"):
+    st.subheader('Co crear Sistemas de Mitigación y Adaptación')
+    st.write('Propiedad Intelectual Compartida')
+    st.write('Participación comercial por sistema: 50%')
