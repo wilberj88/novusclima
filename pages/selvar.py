@@ -8,9 +8,9 @@ import plotly.figure_factory as ff
 import altair as alt
 import plotly.graph_objects as go
 import urllib, json
+import folium
+from streamlit_folium import st_folium
 
-#import folium
-#from streamlit_folium import st_folium
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Clima", page_icon="⛅")
