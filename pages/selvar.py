@@ -32,7 +32,7 @@ m = folium.Map(location=[6.9115957, -73.7164407], zoom_start=15)
 folium.Marker(
     [6.9116, -73.7164], popup="Novus Clima", tooltip="Monitoring", icon=folium.Icon(icon='cloud')
 ).add_to(m)
-st_data = st_folium(m, width=500)
+st_data = st_folium(m, width=725)
 st.write('Propósitos: Centros Operativos de Monitoreo, Mitigación y Adaptación')
 
 
