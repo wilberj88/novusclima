@@ -24,7 +24,10 @@ colored_header(
     description="Abarcar clientes conjuntos",
     color_name="violet-70",
 )
-
+with st.expander("Alcance"):
+    st.subheader('Detalles')
+    st.write('Centrales de Mando desde 2.500 USD mes')
+    st.write('Comisión comercial: 20%')
 
 colored_header(
     label="2. Alianza Financiera",
