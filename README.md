@@ -145,6 +145,9 @@ Clima: Charts. Echarts: 1) Graph, 2) Graph Force, 3) Liquidfill, 4) Gauge Ring, 
 Clima: Pyechart: 1) map, 2) Prophet library
 https://link.medium.com/7XyZWcwKgyb
 
+Visualization
+https://flourish.studio/examples/ Conections globe
+
 
 Sensores de Rayos: Kreaunos LATAM
 www.keraunos.co
