@@ -27,6 +27,9 @@ https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
 14. Océanos
     12.1 Temperatura + 12.2 Hielo polar: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
 
+Historic Data:
+180 countries, 39.000 weather stations: https://medium.com/geekculture/creating-the-biggest-climate-temperature-dataset-9136cafa4298
+
 Data Monitoring:
 https://adamplatform.eu/home-page/
 https://adamplatform.eu/
