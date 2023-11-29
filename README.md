@@ -25,7 +25,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 13. incendios: https://python.plainenglish.io/collect-ndvi-data-for-every-us-wildfire-in-2022-using-python-and-google-earth-engine-77dfa53ac0c3 https://elpais.com/clima-y-medio-ambiente/2023-08-25/que-deberiamos-aprender-de-los-incendios-de-hawai.html https://www.mauicounty.gov/DocumentCenter/View/129491/Report-on-Wildfire-Prevention--Cost-Recovery-on-Maui---Part-4-Exhibit-D-25-MB
 https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
 14. Océanos
-    12.1 Temperatura + 12.2 Hielo polar: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
+    12.1 Temperatura https://ai.gopubby.com/spatial-downscaling-of-2-meter-air-temperature-using-random-forest-on-google-earth-engine-gee-6b4093954d1d + 12.2 Hielo polar: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
 
 Historic Data:
 180 countries, 39.000 weather stations: https://medium.com/geekculture/creating-the-biggest-climate-temperature-dataset-9136cafa4298
