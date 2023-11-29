@@ -13,7 +13,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 1. Vientos: https://towardsdatascience.com/time-series-for-climate-change-forecasting-wind-power-8ed6d653a255
 2. Granizo
 3. Lluvia: https://towardsdatascience.com/does-rain-predict-rain-us-weather-data-and-the-correlation-of-rain-today-and-tomorrow-3a62eda6f7f7
-4. Sequía: https://eroglumit.medium.com/monitoring-groundwater-with-geodesy-b3ecd0f91d57
+4. Sequía: https://eroglumit.medium.com/monitoring-groundwater-with-geodesy-b3ecd0f91d57 https://towardsdatascience.com/new-data-demonstrates-that-2023-was-the-hottest-summer-ever-d92d500a8f01
 5. Inundaciones: https://github.com/keanteng/flood_risk_model https://khorkeanteng.medium.com/a-streamlit-app-for-flood-analysis-b42020bc9048
    https://khorkeanteng.medium.com/creating-chatfloodrisk-dd39fabdda32
    https://khorkeanteng.medium.com/flood-risk-modeling-with-logistic-regression-167840cf1036
