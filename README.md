@@ -17,6 +17,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 5. Inundaciones: https://github.com/keanteng/flood_risk_model https://khorkeanteng.medium.com/a-streamlit-app-for-flood-analysis-b42020bc9048
    https://khorkeanteng.medium.com/creating-chatfloodrisk-dd39fabdda32
    https://khorkeanteng.medium.com/flood-risk-modeling-with-logistic-regression-167840cf1036
+   https://medium.com/sentinel-hub/the-use-of-satellite-imagery-in-crisis-management-after-flooding-382be517224f
 8. Heladas
 9. Deslizamientos
 10. Avalanchas
