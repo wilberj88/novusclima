@@ -36,6 +36,9 @@ Data Monitoring:
 https://adamplatform.eu/home-page/
 https://adamplatform.eu/
 
+Weather by seasons:
+https://openweathermap.medium.com/understanding-the-four-seasons-9d641ebef207
+
 
 Weather - Climate Dissaster Forecast: https://www.kaggle.com/code/thuongtuandang/weather-prediction-with-mixture-models-88
 based on historical data (temperature, precipitacy, humidity and wind speed)
