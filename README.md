@@ -75,6 +75,7 @@ GeoSpatial Solutions: https://blog.gishub.org/ https://github.com/opengeos https
 Atento prevención y reacción: https://weather-chat-ai.fly.dev/
 Blockchain-Tokens-Support: https://greentoken.org/
 https://quantoz.com/publications/tokenization-bringing-liquidity-to-the-green-bonds-market/
+Ejemplo de predicción bajo ciertos parámetros: https://alejandro-ao-streamlit-cancer-predict-appmain-uitjy1.streamlit.app/
 
 Global Population Density for 400m H3:
 https://data.humdata.org/dataset/kontur-population-dataset
