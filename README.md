@@ -33,6 +33,10 @@ https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
 Historic Data:
 180 countries, 39.000 weather stations: https://medium.com/geekculture/creating-the-biggest-climate-temperature-dataset-9136cafa4298
 
+
+3D Rain visualization
+https://studio.foursquare.com/public/05fb384f-e3e2-472f-b9ab-914a74f3adc5
+
 Data Monitoring:
 https://adamplatform.eu/home-page/
 https://adamplatform.eu/
