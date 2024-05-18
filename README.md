@@ -26,7 +26,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
 11. Terremotos
 12. Huracanes: https://huggingface.co/spaces/ahuang11/hurdat_tracks_viewer https://blog.stackademic.com/transform-a-python-script-into-an-interactive-web-app-and-make-it-performant-73fa3b304cdf
 13. incendios: https://towardsdatascience.com/satellites-can-see-invisible-lava-flows-and-active-wildires-but-how-python-371915464d1c https://python.plainenglish.io/collect-ndvi-data-for-every-us-wildfire-in-2022-using-python-and-google-earth-engine-77dfa53ac0c3 https://elpais.com/clima-y-medio-ambiente/2023-08-25/que-deberiamos-aprender-de-los-incendios-de-hawai.html https://www.mauicounty.gov/DocumentCenter/View/129491/Report-on-Wildfire-Prevention--Cost-Recovery-on-Maui---Part-4-Exhibit-D-25-MB
-https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python
+https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python https://towardsdatascience.com/how-to-create-your-own-cv-dataset-using-satellite-imagery-wildfires-from-space-8295c0cca028
 15. Océanos
     12.1 Temperatura https://ai.gopubby.com/spatial-downscaling-of-2-meter-air-temperature-using-random-forest-on-google-earth-engine-gee-6b4093954d1d + 12.2 Hielo polar: https://towardsdatascience.com/make-beautiful-and-useful-spaghetti-plots-with-python-ec4269d7e8c9
 
