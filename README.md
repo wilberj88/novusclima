@@ -21,6 +21,7 @@ Monitorear + Mitigar-Reaccionar (kit de auxilios) + Adaptar-Prevenir (kit flora 
    https://khorkeanteng.medium.com/flood-risk-modeling-with-logistic-regression-167840cf1036
    https://medium.com/sentinel-hub/the-use-of-satellite-imagery-in-crisis-management-after-flooding-382be517224f
 8. Heladas
+truenos: supuestamente caen 50 truenos cada segundo en todo el planeta
 9. Deslizamientos
 10. Avalanchas
 11. Terremotos
